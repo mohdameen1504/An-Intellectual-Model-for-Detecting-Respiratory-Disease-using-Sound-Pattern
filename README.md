@@ -1,0 +1,1 @@
+# An-Intellectual-Model-for-Detecting-Respiratory-Disease-using-Sound-Pattern
